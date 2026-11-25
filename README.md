@@ -15,21 +15,12 @@ The course has 16 ordered stages, including narrow passages, moving gates, shift
 
 This repository is the public project landing page. Benchmark and agent code are not published here yet.
 
-## Projects and references
-
-**Microduck ecosystem**
+## Microduck projects and resources
 
 - [Pollen Robotics · Microduck Sandbox](https://huggingface.co/spaces/pollen-robotics/microduck-simulator) — robot simulator.
 - [Microduck Racer](https://huggingface.co/spaces/Nirav-Madhani/microduck-racer) — earlier Microduck racing environment.
 - [microduck_rl](https://github.com/pollen-robotics/microduck_rl) — robot reinforcement-learning environments.
 - [Microduck policies](https://huggingface.co/pollen-robotics/microduck-policies) — learned motion skills.
-
-**Evaluation context**
-
-- [GameWorld](https://gameworld-project.github.io/) — standardized, verifiable evaluation of multimodal game agents.
-- [GameHorizon Suite](https://gamehorizon-suite.github.io/) — multi-horizon gameplay data and evaluation.
-
-DuckGO uses a physically simulated robot and tests the agent's repeated decisions after uncertain skill execution; the two game-agent projects above are research context, not components of the simulator.
 
 ---
 
