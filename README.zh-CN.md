@@ -2,6 +2,10 @@
 
 [English](README.md) | 中文
 
+[![项目网站](assets/badge-website.svg)](http://43.156.246.20/showcase.html?lang=zh)
+[![Hugging Face 体验](assets/badge-huggingface.svg)](https://huggingface.co/spaces/HandsomeWu666/DuckGO)
+![arXiv 论文待发布](assets/badge-arxiv.svg)
+
 ![DuckGO 障碍赛道](assets/cover.jpg)
 
 **通用 Agent 能否仅凭第一视角画面，控制物理仿真的机器人完成整场障碍赛？**

@@ -2,6 +2,10 @@
 
 English | [Chinese](README.zh-CN.md)
 
+[![Project website](assets/badge-website.svg)](http://43.156.246.20/showcase.html?lang=en)
+[![Hugging Face Space](assets/badge-huggingface.svg)](https://huggingface.co/spaces/HandsomeWu666/DuckGO)
+![arXiv paper coming soon](assets/badge-arxiv.svg)
+
 ![DuckGO obstacle course](assets/cover.jpg)
 
 **Can a general-purpose agent guide a physically simulated robot through an entire obstacle race using only first-person visual observations?**
