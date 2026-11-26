@@ -6,9 +6,9 @@
 [![Hugging Face 体验](assets/badge-huggingface.svg)](https://huggingface.co/spaces/HandsomeWu666/DuckGO)
 ![arXiv 论文待发布](assets/badge-arxiv.svg)
 
-[![DuckGO 障碍赛完整影片（70 秒）](assets/race-film.webp)](http://43.156.246.20/showcase/duckgo-benchmark-review-10.mp4)
+[![DuckGO 障碍赛完整影片（73 秒）](assets/race-film.webp)](https://phygital-ai.github.io/DuckGo-Blog/showcase/duckgo-1126-0939.mp4)
 
-[播放高清有声版（70 秒）](http://43.156.246.20/showcase/duckgo-benchmark-review-10.mp4)
+[播放高清有声版（73 秒）](https://phygital-ai.github.io/DuckGo-Blog/showcase/duckgo-1126-0939.mp4)
 
 **通用 Agent 能驾驶机器人跑完整场障碍赛吗？** 为了测试通用 Agent 的具身能力，我们在 MuJoCo 中设计了一场 Microduck 障碍赛。每个 Agent 驾驶一台双足机器人，通过相机画面和身体状态判断下一步，调用同一套运动技能，再根据实际走到的位置调整。Agent 思考时，赛道上的摆门仍在运动。
 

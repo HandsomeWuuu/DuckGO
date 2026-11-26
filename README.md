@@ -6,9 +6,9 @@ English | [Chinese](README.zh-CN.md)
 [![Hugging Face Space](assets/badge-huggingface.svg)](https://huggingface.co/spaces/HandsomeWu666/DuckGO)
 ![arXiv paper coming soon](assets/badge-arxiv.svg)
 
-[![DuckGO · full 70-second race film](assets/race-film.webp)](http://43.156.246.20/showcase/duckgo-benchmark-review-10.mp4)
+[![DuckGO · full 73-second race film](assets/race-film.webp)](https://phygital-ai.github.io/DuckGo-Blog/showcase/duckgo-1126-0939.mp4)
 
-[Play the HD video with sound (70 seconds)](http://43.156.246.20/showcase/duckgo-benchmark-review-10.mp4)
+[Play the HD video with sound (73 seconds)](https://phygital-ai.github.io/DuckGo-Blog/showcase/duckgo-1126-0939.mp4)
 
 **Can a general-purpose agent pilot a robot through an entire obstacle race?** We built DuckGO to test that question in MuJoCo. Each agent pilots a Microduck biped using the same motion skills. It reads the robot’s camera and state, chooses its next move and checks where the robot actually ended up. The gates keep swinging while the agent thinks.
 
